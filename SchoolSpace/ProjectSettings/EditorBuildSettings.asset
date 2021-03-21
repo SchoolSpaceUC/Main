@@ -6,12 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/AgoraEngine/Demo/HelloUnity3D.unity
-    guid: cf0f0349488134449a67eea42ac82665
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/School Building Resources/DemoScene/MainMenu.unity
     guid: ba4c1e64a4154df4c89a5772d455c333
-  - enabled: 1
+  - enabled: 0
     path: Assets/School Building Resources/DemoScene/SchoolSpaceMain.unity
     guid: c206d02e77fbc3148a269062ea0e8069
+  - enabled: 1
+    path: Assets/Assets/Mirror/Examples/Room/Scenes/OfflineScene.unity
+    guid: 9e6f14982412b2545a0911ebaaa46a23
+  - enabled: 1
+    path: Assets/Assets/Mirror/Examples/Room/Scenes/OnlineScene.unity
+    guid: d7a6763559b31854586c9e49916273ef
+  - enabled: 1
+    path: Assets/Assets/Mirror/Examples/Room/Scenes/RoomScene.unity
+    guid: 48478f4d522f96945b8396f376299d3a
   m_configObjects: {}
